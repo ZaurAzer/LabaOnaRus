@@ -35,6 +35,14 @@ public class ProgrammerBook {
                 '}';
     }
 
+    public void setProgrammingLanguage(String ded) {
+        programmingLanguage = ded;
+    }
+
+    public void setProgrammingLevel(Integer ded) {
+        programmingLevel = ded;
+    }
+
 }
 
 
